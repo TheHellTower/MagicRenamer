@@ -1,5 +1,7 @@
 # MagicRenamer
 
+[![CodeFactor](https://www.codefactor.io/repository/github/thehelltower/magicrenamer/badge)](https://www.codefactor.io/repository/github/thehelltower/magicrenamer)
+
 ## 📜 What it does ?
 
 It does hide some code from dnSpy.
